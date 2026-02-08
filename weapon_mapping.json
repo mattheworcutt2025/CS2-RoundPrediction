@@ -1,0 +1,137 @@
+[
+  {
+    "def_index": 0,
+    "item": "m4a1",
+    "weapon_type_code": 3
+  },
+  {
+    "def_index": 0,
+    "item": "p90",
+    "weapon_type_code": 2
+  },
+  {
+    "def_index": 0,
+    "item": "p250",
+    "weapon_type_code": 1
+  },
+  {
+    "def_index": 0,
+    "item": "incgrenade",
+    "weapon_type_code": 9
+  },
+  {
+    "def_index": 0,
+    "item": "ak47",
+    "weapon_type_code": 3
+  },
+  {
+    "def_index": 0,
+    "item": "mac10",
+    "weapon_type_code": 2
+  },
+  {
+    "def_index": 0,
+    "item": "molotov",
+    "weapon_type_code": 9
+  },
+  {
+    "def_index": 0,
+    "item": "hegrenade",
+    "weapon_type_code": 9
+  },
+  {
+    "def_index": 0,
+    "item": "mp9",
+    "weapon_type_code": 2
+  },
+  {
+    "def_index": 0,
+    "item": "ssg08",
+    "weapon_type_code": 5
+  },
+  {
+    "def_index": 0,
+    "item": "awp",
+    "weapon_type_code": 5
+  },
+  {
+    "def_index": 0,
+    "item": "c4",
+    "weapon_type_code": 7
+  },
+  {
+    "def_index": 0,
+    "item": "ump45",
+    "weapon_type_code": 2
+  },
+  {
+    "def_index": 0,
+    "item": "tec9",
+    "weapon_type_code": 1
+  },
+  {
+    "def_index": 0,
+    "item": "glock",
+    "weapon_type_code": 1
+  },
+  {
+    "def_index": 0,
+    "item": "galilar",
+    "weapon_type_code": 3
+  },
+  {
+    "def_index": 0,
+    "item": "hkp2000",
+    "weapon_type_code": 1
+  },
+  {
+    "def_index": 0,
+    "item": "famas",
+    "weapon_type_code": 3
+  },
+  {
+    "def_index": 0,
+    "item": "flashbang",
+    "weapon_type_code": 9
+  },
+  {
+    "def_index": 0,
+    "item": "aug",
+    "weapon_type_code": 3
+  },
+  {
+    "def_index": 0,
+    "item": "knife",
+    "weapon_type_code": 0
+  },
+  {
+    "def_index": 0,
+    "item": "deagle",
+    "weapon_type_code": 1
+  },
+  {
+    "def_index": 0,
+    "item": "sawedoff",
+    "weapon_type_code": 4
+  },
+  {
+    "def_index": 0,
+    "item": "sg556",
+    "weapon_type_code": 3
+  },
+  {
+    "def_index": 0,
+    "item": "negev",
+    "weapon_type_code": 6
+  },
+  {
+    "def_index": 0,
+    "item": "smokegrenade",
+    "weapon_type_code": 9
+  },
+  {
+    "def_index": 0,
+    "item": "decoy",
+    "weapon_type_code": 9
+  }
+]

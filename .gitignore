@@ -1,0 +1,44 @@
+# Data files (too large for GitHub)
+data/
+*.npy
+*.parquet
+*.csv
+
+# Model checkpoints
+models/
+*.pth
+*.pt
+*.h5
+*.pkl
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.eggs/
+*.egg-info/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/

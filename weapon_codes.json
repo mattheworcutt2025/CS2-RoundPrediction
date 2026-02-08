@@ -1,0 +1,51 @@
+{
+  "weapon_id_to_name": {
+    "1": "deagle",
+    "2": "elite",
+    "3": "fiveseven",
+    "4": "glock",
+    "7": "ak47",
+    "8": "aug",
+    "9": "awp",
+    "10": "famas",
+    "13": "galilar",
+    "14": "m249",
+    "16": "m4a1",
+    "17": "mac10",
+    "19": "p90",
+    "23": "mp5sd",
+    "24": "ump45",
+    "25": "xm1014",
+    "26": "bizon",
+    "27": "mag7",
+    "28": "negev",
+    "29": "sawedoff",
+    "30": "tec9",
+    "32": "hkp2000",
+    "33": "mp7",
+    "34": "mp9",
+    "35": "nova",
+    "36": "p250",
+    "39": "sg556",
+    "40": "ssg08",
+    "60": "m4a1_silencer",
+    "61": "usp_silencer",
+    "64": "revolver"
+  },
+  "categories": {
+    "rifle": [7, 8, 10, 13, 16, 39, 60],
+    "sniper": [9, 40],
+    "smg": [17, 19, 23, 24, 26, 33, 34],
+    "shotgun": [25, 27, 29, 35],
+    "pistol": [1, 2, 3, 4, 30, 32, 36, 61, 64],
+    "heavy": [14, 28]
+  },
+  "category_names": {
+    "7": "rifle", "8": "rifle", "10": "rifle", "13": "rifle", "16": "rifle", "39": "rifle", "60": "rifle",
+    "9": "sniper", "40": "sniper",
+    "17": "smg", "19": "smg", "23": "smg", "24": "smg", "26": "smg", "33": "smg", "34": "smg",
+    "25": "shotgun", "27": "shotgun", "29": "shotgun", "35": "shotgun",
+    "1": "pistol", "2": "pistol", "3": "pistol", "4": "pistol", "30": "pistol", "32": "pistol", "36": "pistol", "61": "pistol", "64": "pistol",
+    "14": "heavy", "28": "heavy"
+  }
+}
