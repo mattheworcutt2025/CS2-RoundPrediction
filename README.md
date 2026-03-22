@@ -1,6 +1,6 @@
 # CS2 Round Prediction — Deep Learning Project
 
-**Course:** MGTA621/622 (MMA Field Project)  
+**Course:** MGTA 611
 **Team:** Ratul Sarker, Sam Matthew  
 **Last Updated:** 2026-02-08
 
